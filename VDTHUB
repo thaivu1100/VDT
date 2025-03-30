@@ -110,6 +110,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/realredz/BloxFruits/r
  AddButton(Tab1o, {
      Name = "Redz Hub New",
     Callback = function()
+}
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ShimeKano/redz/refs/heads/main/Source.luau"))()
   end
-  
+  ))
